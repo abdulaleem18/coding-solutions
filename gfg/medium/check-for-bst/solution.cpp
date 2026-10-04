@@ -4,6 +4,7 @@ public:
         if (root == nullptr)
             return true;
 
+        // Current node must be strictly inside the allowed range
         if (root->data <= low || root->data >= high)
             return false;
 
