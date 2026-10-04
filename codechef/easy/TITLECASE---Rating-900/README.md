@@ -56,7 +56,7 @@ Programming In PYTHON
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-04T19:43:33.169Z  
+**Submitted:** 2026-10-04T19:43:41.422Z  
 
 ```py
 T = int(input())
