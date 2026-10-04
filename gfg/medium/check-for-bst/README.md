@@ -39,7 +39,7 @@ Explanation: The node with data 9 present in the right subtree has lesser key va
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-04T19:15:38.777Z  
+**Submitted:** 2026-10-04T19:21:25.427Z  
 
 ```cpp
 class Solution {
@@ -48,6 +48,7 @@ public:
         if (root == nullptr)
             return true;
 
+        // Current node must be strictly inside the allowed range
         if (root->data <= low || root->data >= high)
             return false;
 
