@@ -59,7 +59,7 @@ For each testcase, print minimum number of questions in separate line.
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-04T19:46:35.354Z  
+**Submitted:** 2026-10-04T19:46:48.958Z  
 
 ```cpp
 #include <stdio.h>
